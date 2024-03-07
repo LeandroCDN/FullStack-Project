@@ -10,7 +10,7 @@ const Nav = () => {
       </div>
 
       <div>
-        <button className="flex text-black"> Connect Wallet</button>
+        <w3m-button />
       </div>
     </div>
   );
