@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
     "@web3modal/ethers5": "^4.0.13",
     "ethers": "^5.7.2",
     "next": "14.1.3",
